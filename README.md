@@ -1,4 +1,5 @@
 # 🏡 Responsive Real State Website
+![preview](https://github.com/Siddhimahajan5801/DreamHome-real-estate-website/assets/110876496/3b47625f-2897-434c-adef-a954f06bdd29)
 
 # Features:
 
